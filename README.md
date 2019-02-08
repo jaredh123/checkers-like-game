@@ -1,6 +1,6 @@
-# Checkers
+# Checkers-like Game
 
-#### Epicodus Group project week 5: Checkers, February 7, 2019
+#### Epicodus Group project week 5: Checkers-like Game, February 7, 2019
 
 #### By Jared Hanson, Jasmine Lee, Marie Dillard, and Florin Mirica
 
