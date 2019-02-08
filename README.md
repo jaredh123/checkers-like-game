@@ -14,7 +14,7 @@ How to play:
 * Users take turns moving their token
 * Tokens may only be moved diagonally, forward
 * No kinging is involved
-* Objective is to jump over your opponent's tokens
+* Objective is to jump on your opponent's tokens
 * User with the last standing token(s) wins
 
 
