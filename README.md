@@ -22,7 +22,7 @@ How to play:
 
 * Navigate to the GitHub account with user-name "jaredh123".
 * Copy the url from the specific repository and git clone on to your computer.
-* You can also view the webpage at https://jaredh123.github.io/week-5-group-project/
+* You can also view the webpage at https://jaredh123.github.io/checkers-like-game/
 
 ## Known Bugs
 
